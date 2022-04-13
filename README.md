@@ -1,2 +1,2 @@
-# kickstarter-analysis
-Bootcamp Excel Kickstarter Work
+# An Analysis of Kickstarter Campaigns
+Bootcamp Excel Kickstarter Completed Data Analysis
