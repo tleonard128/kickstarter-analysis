@@ -32,10 +32,15 @@ When plotting the percentages of successful, failured and canceled campaigns in 
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+### Conclusions from Theater Outcomes based on Launch Date
 
-- What can you conclude about the Outcomes based on Goals?
+Theater campaigns start most frequently in May and June and are also have the most amount of successful outcomes. Conversly, theater campaigns start least frequently in November and December and have a lowest amount of successful outcomes. Regardless of the month in which a theater campaign starts, it seems to have the same chance at getting canceled with a small spike in January.
 
-- What are some limitations of this dataset?
+### Conclusion from Outcomes based on Goals
 
+Kickstarter campaigns for plays in the theater category with the smallest funding goals had the highest percentage of success. Looking at the data, although the majority of the campaigns were trying to raise less than $5000 in fundings, those campaigns were successful in achieving their funding goal at a rate of more than 70%. Although there is a spike in percentage of successful campaigns looking for funding between $35,000 and $45,000 (66% succces), the total campaigns with goals in that range is only 9 which is less than 1% of the total campaigns run in this data set.
+
+### Dataset Limitations
+
+### Other possible tables/ graphs that could be created
 - What are some other possible tables and/or graphs that we could create?
