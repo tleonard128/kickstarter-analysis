@@ -42,5 +42,7 @@ Kickstarter campaigns for plays in the theater category with the smallest fundin
 
 ### Dataset Limitations
 
-### Other possible tables/ graphs that could be created
-- What are some other possible tables and/or graphs that we could create?
+Some of the limititations from using this dataset are that we do not have the most up to date data (2017), this only analyzes data from Kickstarter, and we do not have any data based on who is funding which types of projects or the specific amounts of each donation. 
+
+### Other possible tables that could be created
+Other possible tables we could include here are a table that helps to analyze the amount of backers each campaign has in relation to the goal of the campaign and whether or not it was successful, the length of the campaign in relation to the funding goals and a table that shows the success of a campaign in relation to the type and the location of the campaign.
